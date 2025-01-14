@@ -1,4 +1,4 @@
-Here’s the updated version with **React** added under "Currently Exploring":  
+
 
 ---
 
